@@ -7,8 +7,8 @@
 #include <Arduino.h>
 #include "Motores.h"
 
-const char *ssid = "honorX8";
-const char *password = "gatitobonito";
+const char *ssid = "";
+const char *password = "";
 const char *mqtt_server = "34.73.226.103";
 const int mqtt_port = 1883;
 const char *mqtt_user = "admin";
